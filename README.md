@@ -1,4 +1,6 @@
-# hcetarik
+[![Build Status](https://travis-ci.com/full-name-github/hcetarik.svg?branch=master)](https://travis-ci.com/full-name-github/hcetarik)
+
+# hcetarik 
 
 **This is just a draft.**
 
